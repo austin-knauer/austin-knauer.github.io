@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94473712.chunk.css",
+    "main.js": "/static/js/main.93397569.chunk.js",
+    "main.js.map": "/static/js/main.93397569.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.6a075f13.chunk.js": "/static/js/2.6a075f13.chunk.js",
+    "static/js/2.6a075f13.chunk.js.map": "/static/js/2.6a075f13.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1525388ea7b627c9379cf9e0e1677203.js": "/precache-manifest.1525388ea7b627c9379cf9e0e1677203.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.94473712.chunk.css.map": "/static/css/main.94473712.chunk.css.map",
+    "static/js/2.6a075f13.chunk.js.LICENSE.txt": "/static/js/2.6a075f13.chunk.js.LICENSE.txt",
+    "static/media/Austin Knauer F.pdf": "/static/media/Austin Knauer F.86500fd1.pdf",
+    "static/media/calculator.png": "/static/media/calculator.c449a40d.png",
+    "static/media/clock.png": "/static/media/clock.e1f0dbb0.png",
+    "static/media/index.css": "/static/media/static.0525b54d.gif",
+    "static/media/drum.png": "/static/media/drum.edc53a40.png",
+    "static/media/landing.png": "/static/media/landing.62801f87.png",
+    "static/media/markdown.png": "/static/media/markdown.87a65d9e.png",
+    "static/media/me.jpg": "/static/media/me.3621237d.jpg",
+    "static/media/quote.png": "/static/media/quote.8b0c3fdb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.6a075f13.chunk.js",
+    "static/css/main.94473712.chunk.css",
+    "static/js/main.93397569.chunk.js"
+  ]
+}
