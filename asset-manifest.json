@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77252d9d.css",
+    "main.js": "/static/js/main.fd44576c.js",
+    "static/media/ocean.gif": "/static/media/ocean.312936dd533b6056c388.gif",
+    "static/media/mountains.gif": "/static/media/mountains.ee8cddfcfdd93f6c6054.gif",
+    "static/media/desert.gif": "/static/media/desert.b51da4af7497246cc2ea.gif",
+    "static/media/apartments.png": "/static/media/apartments.a5df455196f6e3e21253.png",
+    "static/media/static.gif": "/static/media/static.cdbff149239ba8487699.gif",
+    "static/media/drum.png": "/static/media/drum.41093d726cbc53eea36f.png",
+    "static/media/scheduler.png": "/static/media/scheduler.46d473e3cc55ca5a195f.png",
+    "static/media/film.png": "/static/media/film.5a2e364492b38a7acf3a.png",
+    "static/media/Austin Knauer Z.pdf": "/static/media/Austin Knauer Z.348af2e6c9ef44e6d462.pdf",
+    "static/media/weather.png": "/static/media/weather.c220ab4718e68bba8604.png",
+    "static/media/calculator.png": "/static/media/calculator.4a00768001e4bec8fed6.png",
+    "index.html": "/index.html",
+    "main.77252d9d.css.map": "/static/css/main.77252d9d.css.map",
+    "main.fd44576c.js.map": "/static/js/main.fd44576c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77252d9d.css",
+    "static/js/main.fd44576c.js"
+  ]
+}
